@@ -279,8 +279,8 @@ if "%op%"=="4" goto start
 start https://youtu.be/4bkvewtGKm0
 goto tut
 :tutcone
-start 
+start https://www.youtube.com/watch?v=Shk-w1SD3A0
 goto tut
 :tutball
-start 
+start https://youtu.be/4laUq0TBAns?si=z9kIYmmcA0gjg2P4
 goto tut
